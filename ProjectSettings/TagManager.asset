@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - Background
+  - Enemy
+  - Wagon
+  - Rope
+  - Actor
+  - Grass
+  - ActorCollider
+  - HitCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - WallMaskLayer
+  - BackgroundLayer
+  - ActorLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundLayer
+    uniqueID: 1181166997
+    locked: 0
+  - name: TileLayer
+    uniqueID: 505560653
+    locked: 0
+  - name: IngameObjectLayer
+    uniqueID: 495059485
+    locked: 0
+  - name: ActorLayer
+    uniqueID: 2112334329
+    locked: 0
+  - name: ForegroundLayer
+    uniqueID: 1818186801
+    locked: 0
+  - name: GUILayer
+    uniqueID: 1352974663
+    locked: 0
